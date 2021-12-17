@@ -1,0 +1,16 @@
+[
+  {
+    "name": "RomiTestTwo (in project RomiTestTwo)",
+    "file": "C:\\Users\\Cerea\\OneDrive\\Documents\\FIRST\\RomiTestTwo\\build\\libs\\RomiTestTwo.jar",
+    "extensions": [
+      "C:\\Users\\Cerea\\OneDrive\\Documents\\FIRST\\RomiTestTwo\\build\\tmp\\expandedArchives\\halsim_gui-2021.3.1-windowsx86-64.zip_323ba05d82fed35fbc1ea2c04141a0a5\\windows\\x86-64\\shared\\halsim_gui.dll",
+      "C:\\Users\\Cerea\\OneDrive\\Documents\\FIRST\\RomiTestTwo\\build\\tmp\\expandedArchives\\halsim_ds_socket-2021.3.1-windowsx86-64.zip_5f77b11b08590618ca2ba5550844833c\\windows\\x86-64\\shared\\halsim_ds_socket.dll",
+      "C:\\Users\\Cerea\\OneDrive\\Documents\\FIRST\\RomiTestTwo\\build\\tmp\\expandedArchives\\halsim_ws_client-2021.3.1-windowsx86-64.zip_7121348dd3be7530319d96f489846c74\\windows\\x86-64\\shared\\halsim_ws_client.dll"
+    ],
+    "env": {
+      "HALSIMWS_HOST": "10.0.0.2"
+    },
+    "librarydir": "C:\\Users\\Cerea\\OneDrive\\Documents\\FIRST\\RomiTestTwo\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
